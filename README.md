@@ -14,7 +14,7 @@ Doghouse exposed at http://192.168.50.8:8182/.
 
 ## Starting on docker
 
-    docker run -d -p 8182:8182 -t cncflora/titan
+    docker run -d -p 8182:8182 -t captainhurst/restack
 
 ## REST Usage
 
